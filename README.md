@@ -1,2 +1,2 @@
 # LeetCode Solutions
-### Contains the solutions for varios Leet Code problems, using Java and grouped by difficulty
+### Contains solutions to various LeetCode problems I solved, implemented in Java and organized by difficulty level.
